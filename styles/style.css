@@ -1,0 +1,46 @@
+*{
+    font-family: 'Roboto',sans-serif;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.navbar{
+    background-color: rgb(52, 54, 54);
+}
+.service-title{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    font-size: 30px; 
+    font-weight: 700;
+    margin: 20px 0;
+}
+.cards{
+    justify-content: center;
+    gap: 1rem;
+}
+.card{
+    max-width: 300px;
+    background-color: rgb(7, 7, 7);
+}
+.card img{
+    width: 50px;
+    height: 50px;
+    margin:0 auto;
+}
+.card h4{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px; 
+    font-weight: 700;
+}
+.card p{
+    margin-top: 25px;
+    padding-bottom: 50px;
+    color: white;
+    font-size: 18px; 
+    font-weight: 400;
+}
