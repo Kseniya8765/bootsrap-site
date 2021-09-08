@@ -44,3 +44,16 @@ header{
     font-size: 18px; 
     font-weight: 400;
 }
+.form{
+    display: flex;
+    justify-content: center;
+}
+.btn-form {
+ background-color: rgb(170, 17, 17);
+ color: white;
+ margin: 30px 0;
+}
+.btn-send{
+    background-color: rgb(170, 17, 17);
+    color: white;  
+}
